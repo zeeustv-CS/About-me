@@ -1,5 +1,5 @@
-# About-me
-Cyber Security resources, scripts, and labs by Zeeus-CS. Focused on penetration testing, incident response, and SOC practices. Includes tools for offensive and defensive security, automation, and learning projects inspired by CTFs, TryHackMe, HackTheBox, and cloud security.
+![Banner](./banner.png)
+
 # Hi, I'm Zeeus-CS 👾🔐
 
 Welcome to my GitHub profile!  
@@ -31,4 +31,3 @@ I’m a Cyber Security enthusiast and professional, passionate about protecting 
 ---
 
 🚀 *Always learning, always securing.*  
-![Uploading ChatGPT Image 4 de set. de 2025, 11_57_45.png…]()
