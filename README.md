@@ -1,5 +1,3 @@
-![Banner](./banner.png)
-
 # Hi, I'm Zeeus-CS 👾🔐
 
 Welcome to my GitHub profile!  
