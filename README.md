@@ -28,4 +28,8 @@ I’m a Cyber Security enthusiast and professional, passionate about protecting 
 
 ---
 
+## 📫 Contact
+- **Email:** zeeus-CS@gmail.com  
+
 🚀 *Always learning, always securing.*  
+
