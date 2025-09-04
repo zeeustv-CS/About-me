@@ -31,3 +31,4 @@ I’m a Cyber Security enthusiast and professional, passionate about protecting 
 ---
 
 🚀 *Always learning, always securing.*  
+![Uploading ChatGPT Image 4 de set. de 2025, 11_57_45.png…]()
